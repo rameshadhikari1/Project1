@@ -11,6 +11,7 @@ Supervised machine learning algorithms were also used to predict the number of a
 accidents in city of Austin. Two decision tree based algorithms, Random Forest (RF) and
 eXtreme Gradient Boosting (XGB), were implemented. XGB was found to perform the best
 with upto 90% accuracy (based on mean absolute error).   
+
 <br>
 <br>
 Data were collected from different sources:
@@ -28,7 +29,6 @@ Files:
 <li> statistical_inference_project1.ipynb --> Statistical Analysis</li>
 <li> exploratory_data_analysis_project1.ipynb --> Data Story telling and Explorary Data Analysis</li>
 <li> Time_Series_and_Predictive_Models.ipynb: --> Time series analysis and Machine Learning models</li>
-<br>
 <br>
 Deliverables:
 <li> Report_Road-Accident-Austin.pdf: --> Final report for the project includes all details and outcomes
