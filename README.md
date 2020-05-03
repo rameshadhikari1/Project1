@@ -29,6 +29,7 @@ Data were collected from different sources:
 <br>
 
 Files:
+ipynb
 <li> data_wrangling_project1.ipynb: --> Data wrangling and cleaning</li>
 <li> statistical_inference_project1.ipynb --> Statistical Analysis</li>
 <li> exploratory_data_analysis_project1.ipynb --> Data Story telling and Explorary Data Analysis</li>
