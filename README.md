@@ -27,9 +27,7 @@ Data were collected from different sources:
 
 <br>
 <br>
-
 Files:
-ipynb
 <li> data_wrangling_project1.ipynb: --> Data wrangling and cleaning</li>
 <li> statistical_inference_project1.ipynb --> Statistical Analysis</li>
 <li> exploratory_data_analysis_project1.ipynb --> Data Story telling and Explorary Data Analysis</li>
@@ -37,12 +35,15 @@ ipynb
 
 
 
-
+<br>
+<br>
+<br>
 Deliverables:
 <li> Report_Road-Accident-Austin.pdf: --> Final report for the project includes all details and outcomes
 <li> Slides.pdf: --> Presentation slides
 <br>
+<br>
 <br>   
  
-Conclusion: 
+Conclusion:<br> 
 Auto accident counts in the city of Austin at various spatiotemporal resolutions were predicted using two different machine learning models and time series analysis. Extreme gradient boosting (XGB) model outperformed the other models. Random forest (RF) model performs far better than the autoregressive time series model ARIMA. All models predicted the spatial accidents better than temporal accident data. 
