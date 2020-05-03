@@ -35,4 +35,4 @@ Deliverables:
 <li> Slides.pdf: --> Presentation slides
 <br>
 <br>   
-Auto accident counts in the city of Austin at various spatiotemporal resolutions were predicted using two different machine learning models and time series analysis. Extreme gradient boosting (XGB) model outperformed the other models. Random forest (RF) model performs far better than the autoregressive time series model ARIMA. All models predicted the spatial accidents better than temporal accident data. 
+Auto accident counts in the city of Austin at various spatiotemporal resolutions were predicted using two different machine learning models and time series analysis. XGB model outperformed the other models. Random forest model performs far better than ARIMA. All models predicted the spatial accidents better than temporal accident data. 
