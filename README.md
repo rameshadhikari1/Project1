@@ -1,5 +1,5 @@
 # Road Accidents in Austin
-Thid repository contains all components of the end-to-end capstone project predicting
+This repository contains the details of an end-to-end capstone project predicting
 the number of auto accidents in specified time and space in Austin city. The repository includes four ipynb files for each sections and two pdf files for each of
 final report and final presentation. 
 
