@@ -29,10 +29,13 @@ Data were collected from different sources:
 <br>
 
 Files:
-<li> data_wrangling_project1.ipynb: --> Data wrangling and cleaning
-<li> statistical_inference_project1.ipynb --> Statistical Analysis
-<li> exploratory_data_analysis_project1.ipynb --> Data Story telling and Explorary Data Analysis
+<li> data_wrangling_project1.ipynb: --> Data wrangling and cleaning</li>
+<li> statistical_inference_project1.ipynb --> Statistical Analysis</li>
+<li> exploratory_data_analysis_project1.ipynb --> Data Story telling and Explorary Data Analysis</li>
 <li> Time_Series_and_Predictive_Models.ipynb: --> Time series analysis and Machine Learning models</li>
+
+
+
 
 Deliverables:
 <li> Report_Road-Accident-Austin.pdf: --> Final report for the project includes all details and outcomes
